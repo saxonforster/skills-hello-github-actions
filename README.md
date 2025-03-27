@@ -6,7 +6,7 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
-## Finish
+ :smile:_ :smile:_ :smile:_
 
 _Congratulations friend, you've completed this course!_
 
